@@ -1,0 +1,5 @@
+{
+    "encoder":      "nvenc_h264",
+    "bitrate":      "2000",
+    "extra-flags":  " -2 -T"
+}
